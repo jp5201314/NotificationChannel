@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NotificationChannel</string>
+    <string name="launch_dialog_activity">Launch Dialog Activity</string>
+    <string name="launch_toast_activity">Launch Toast Activity</string>
+    <string name="launch_notification_activity">Launch Notification Activity</string>
+    <string name="launch_snackbar_activity">Launch Snackbar Activity</string>
+    <string name="toast_duration">Toast Duration:</string>
+    <string name="short_toast">Short</string>
+    <string name="long_toast">Long</string>
+    <string name="show_action_snackbar">Show Action Snackbar</string>
+    <string name="show_regular_snackbar">Show Regular Snackbar</string>
+    <string name="display_simple_dialog">Display Simple Dialog</string>
+    <string name="display_date_picker">Display Date Picker</string>
+    <string name="show_choice_dialog">Show Choice Dialog</string>
+    <string name="show_custom_layout">Show Custom Layout</string>
+    <string name="FirstNameHint">First name</string>
+    <string name="LastNameHint">Last name</string>
+    <string name="simple_notification">Show Simple Notification</string>
+    <string name="large_notification">Show Large Notification</string>
+    <string name="action_notification">Show Action Notification</string>
+    <string name="notification_news">This activity was launched as the result of a Notification</string>
+    <string name="long_msg">This is a notification style that can contain a large amount of text. It works really well when you have a large amount of information
+    to display in the notification area and want the user to be able to expand the message to see all of the content.</string>
+
+
+    <string name="more_info">Info</string>
+    <string name="contact_me">LinkedIn</string>
+    <string name="about_it">About it</string>
+    <string name="about_it_info">This application is a demo for different ways to user communication and was created in kotlin more info
+        you can visit the repository</string>
+    <string name="copyright">Copyright (c) 2020 Anel_CC and CherryApps
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.</string>
+</resources>
